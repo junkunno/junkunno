@@ -14,9 +14,9 @@
   [![Tabluea Resume](https://img.shields.io/badge/-Resume%20Dashboard-blueviolet?style=flat&labelColor=ff69b4&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dominique.mcintosh/viz/Resume_16521141642820/Resume-Dashboard) 
 
 **Links to a few projects & data visualizations I've worked on:** <br>
-	[![enter image description here](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)
-	](https://www.kaggle.com/dominiquemcintosh)&nbsp;&nbsp;&nbsp;[![enter image description here](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-	](https://public.tableau.com/app/profile/dominique.mcintosh)
+	[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)
+	](https://www.kaggle.com/dominiquemcintosh)&nbsp;&nbsp;&nbsp;[![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
+	](https://public.tableau.com/app/profile/dominique.mcintosh)&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=github&logoColor=white&style=flat)](https://junkunno.github.io/) 
  <br><br>
  **Skills** <br>
 	![MySql](https://img.shields.io/badge/-MySql-4479A1?logo=mysql&logoColor=white&style=plastic)&nbsp;&nbsp;&nbsp; ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic) &nbsp;&nbsp;&nbsp;![R](https://img.shields.io/badge/-276DC3?logo=r&logoColor=white&style=plastic)&nbsp;&nbsp;&nbsp; ![HTML](https://img.shields.io/badge/-Html-E34F26?logo=html5&logoColor=white&style=plastic)&nbsp;&nbsp;&nbsp; ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=plastic)&nbsp;&nbsp;&nbsp; ![enter image description here](https://img.shields.io/badge/-office-D83B01?logo=microsoftoffice&logoColor=white&style=plastic) 
